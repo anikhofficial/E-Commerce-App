@@ -58,9 +58,9 @@ An **E-Commerce** application built using **Flutter** that provides a seamless s
 
 ## 🛒 Screenshots
 
-| Home Screen | Product List | Cart | Checkout |
+| Home Screen | Favorite | Cart | Profile |
 |-------------|--------------|------|----------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) |
+| ![Home](screenshots/home.png) | ![Favorite](screenshots/favorite.png) | ![Cart](screenshots/cart.png) | ![profile](screenshots/profile.png) |
 
 ## 🔌 API Integration
 
