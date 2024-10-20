@@ -34,7 +34,7 @@ An **E-Commerce** application built using **Flutter** that provides a seamless s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/anikhofficial/ecommerce-flutter-app.git
+   git clone https://github.com/anikhofficial/E-Commerce-App
    cd ecommerce-flutter-app
    ```
 
